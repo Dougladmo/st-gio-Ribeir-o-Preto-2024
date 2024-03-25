@@ -18,5 +18,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Estágio Ribeirão Preto - 2024, Projeto feito para etapa de desafio para vaga de estágio.
 
-- [Acesse o projeto finalizado, online](https://dougladmo.github.io/Galleria/)
+- [Acesse o projeto finalizado, online](https://st-gio-ribeir-o-preto-2024.vercel.app/)
 
